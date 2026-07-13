@@ -151,9 +151,13 @@ Dica importante: Antes de qualquer aplicação, verifique se a instituição fin
     **LCI e LCA:** São letras de crédito para os setores imobiliários e do agronegócio
 para pessoas físicas.
 
+*   **Vantagens:** 
+*   **Desvantagens:** 
   
     **Tesouro direto:** O tesouro direto funciona como um empréstimo que você faz ao Governo Federal para financiar a dívida pública. Na data estabelecida, o governo devolve seu dinheiro com os juros definidos no momento da compra do título público.
-  
+    
+*   **Vantagens:** 
+*   **Desvantagens:**   
 
 - Estruturar com base no conteudo que gostei a AI ter apresentado na resposta (Perfil do investidor, Recomendações de investimento e Dicas para quem está começando)
 
@@ -200,37 +204,62 @@ Para um perfil conservador e iniciante, os investimentos de **Renda Fixa** são 
 
 ### Objetivo
 
->
+> Saber se a IA conseguiria conectar os conceitos aprendidos com a vida real, tornando a resposta mais didática e prática
 
 ### Prompt utilizado
 
-```text
-
+```
+Qual a definição de passivo, ativo e patrimônio líquido? Como posso identifica-los na minha vida e no dia a dia?
 ```
 
 ### Resposta obtida
 
->
+> Embora os termos técnicos "ativo" e "passivo" sejam comuns na educação financeira, as fontes utilizam frequentemente os conceitos de **investimentos/bens** (ativos) e **dívidas/obrigações** (passivos) para explicar a composição da riqueza de um indivíduo.
+> Abaixo estão as definições e formas de identificá-los com base no material fornecido:
+
+### **1. Ativos (O que você tem e o que trabalha para você)**
+Os ativos são bens, direitos e aplicações financeiras que possuem valor de troca ou que rendem juros a seu favor.
+*   **Definição:** São recursos que você possui e que podem ser convertidos em dinheiro. O ativo mais líquido (mais fácil de transformar em dinheiro) é o próprio dinheiro em espécie.
+*   **Identificação no dia a dia:**
+    *   **Dinheiro e Poupança:** O saldo na sua conta corrente ou na caderneta de poupança.
+    *   **Investimentos Financeiros:** Aplicações em **CDB**, **Tesouro Direto**, **LCI/LCA**, **ações** ou **fundos de investimento**.
+    *   **Bens Materiais:** Sua casa (imóvel) ou seu carro (considerando o valor de mercado dele).
+
+### **2. Passivos (O que você deve a terceiros)**
+Os passivos representam suas obrigações financeiras, ou seja, recursos de terceiros que você utilizou para antecipar o consumo e que precisará pagar no futuro.
+*   **Definição:** Toda vez que você consome algo e não paga no exato momento, você assume uma dívida ou passivo.
+*   **Identificação no dia a dia:**
+    *   **Dívidas de Consumo:** A fatura do **cartão de crédito**, cheques pré-datados e compras parceladas em lojas.
+    *   **Empréstimos e Financiamentos:** Saldo devedor de um financiamento de veículo ou crédito habitacional.
+    *   **Contas a Pagar:** Compromissos já assumidos que ainda não foram compensados.
+
+### **3. Patrimônio Líquido (Sua riqueza real)**
+O patrimônio líquido é o resultado da subtração de tudo o que você possui (ativos) por tudo o que você deve (passivos).
+*   **Definição:** É a sua riqueza real em um determinado momento. As fontes ilustram isso através do conceito de **"patrimônio final"**.
+*   **Exemplo Prático de Identificação:**
+    *   Se você tem um carro que vale **R$ 40.000,00** (Ativo), mas ainda deve **R$ 20.000,00** do financiamento dele (Passivo), seu patrimônio líquido referente a esse bem é de **R$ 20.000,00**.
+    *   O objetivo de um planejamento financeiro eficiente é aumentar o patrimônio líquido através de um **orçamento superavitário** (ganhar mais do que gasta), destinando a sobra para novos ativos que gerem rendimentos.
+
+### **Resumo para o cotidiano**
+Para identificar esses conceitos no seu dia a dia, você pode observar seu orçamento:
+*   **Ativo:** É o que gera **receitas** (como juros de uma aplicação ou aluguel de um imóvel).
+*   **Passivo:** É o que gera **despesas com juros** (o custo de ter antecipado o consumo com dinheiro que não era seu).
+*   **Patrimônio Líquido:** É o que sobra quando você imagina vender todos os seus bens hoje e pagar todas as suas dívidas.
 
 ### Referências utilizadas pela IA
 
-- 
+- [Caderno de Educação Financeira - Gestão de Finanças Pessoais](https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf)
+- [Você conhece o tripé dos investimentos?](https://investirbem.prevpepsico.com.br/publicacoes/voce-conhece-o-tripe-dos-investimentos)
 
 ### Dificuldades encontradas
 
-- 
+- Não teve dificuldades
 
 ### Ajustes realizados
 
-- 
-
-### Resultado Final
-
->
+- Não foi preciso ajustes
 
 ---
-
-
 
 # 4. Miniguia de Estudo
 
