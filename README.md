@@ -1,7 +1,9 @@
 # Caderno Temático
 
 > **Tema:**  
-> _Conceitos introdutórios de finanças e investimentos._
+> _Conceitos introdutórios de finanças e investimentos_
+
+_Link: [Guia de Educação Financeira e Gestão de Finanças Pessoais](https://notebooklm.google.com/notebook/1bd7bcbf-b53c-46a8-8f84-d1d2acbee406)_
 
 ---
 
@@ -232,6 +234,15 @@ Para um perfil conservador e iniciante, os investimentos de **Renda Fixa** são 
 
 # 4. Miniguia de Estudo
 
+---
+
+## Resumo Estruturado
+
+> [**Guia em PDF**](https://github.com/user-attachments/files/29978872/Financial_Mastery_Blueprint.pdf)
+
+> [**Mapa Mental**](https://notebooklm.google.com/notebook/1bd7bcbf-b53c-46a8-8f84-d1d2acbee406/artifact/42a1049d-fb1e-485e-a1fa-71bb14262dc4?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+
+---
 ## Glossário
 
 | Termo | Definição |
@@ -248,39 +259,33 @@ Para um perfil conservador e iniciante, os investimentos de **Renda Fixa** são 
 
 ### Prompt 1
 
-```text
-
+```
+Como montar uma reserva de emergência com liquidez diária?
 ```
 
 ---
 
 ### Prompt 2
 
-```text
-
+```
+Qual a definição de passivo, ativo e patrimônio líquido? Como posso identifica-los na minha vida e no dia a dia?
 ```
 
 ---
 
 ### Prompt 3
 
-```text
-
+```
+Quantos meses de custo de vida eu deveria acumular para ter tranquilidade financeira?
 ```
 
 ---
 
 ### Prompt 4
 
-```text
-
 ```
-
----
-
-# Conclusão
-
-> Faça um breve resumo do que foi aprendido e como o processo de pesquisa com IA contribuiu para o estudo.
+Crie em um projeto estruturado e sugira como devo comemorar o progresso sem comprometer o orçamento. Disponho de [VALOR MENSAL] para poupar.
+```
 
 ---
 
