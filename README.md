@@ -249,7 +249,7 @@ Para identificar esses conceitos no seu dia a dia, você pode observar seu orça
 ### Referências utilizadas pela IA
 
 - [Caderno de Educação Financeira - Gestão de Finanças Pessoais](https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf)
-- [Você conhece o tripé dos investimentos?](https://investirbem.prevpepsico.com.br/publicacoes/voce-conhece-o-tripe-dos-investimentos)
+- [Tipos de investimentos: quais são e qual a opção mais segura e rentável para iniciantes?](https://sejaefi.com.br/blog/tipos-de-investimentos)
 
 ### Dificuldades encontradas
 
